@@ -1,6 +1,6 @@
 {
   "name": "@ndxbn/tslint-config",
-  "version": "0.0.1-0",
+  "version": "0.0.1",
   "description": "My configs for TSLint",
   "main": "tslint.json",
   "scripts": {},
