@@ -1,8 +1,8 @@
 {
-  "name": "@ndxbn/configs",
-  "version": "0.0.2",
-  "description": "My configs for some node modules",
-  "main": "",
+  "name": "@ndxbn/tslint-config",
+  "version": "0.0.1-0",
+  "description": "My configs for TSLint",
+  "main": "tslint.json",
   "scripts": {},
   "keywords": [],
   "author": "ndxbn <sitri.ndxbn@gmail.com>",
