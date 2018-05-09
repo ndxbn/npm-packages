@@ -1,0 +1,12 @@
+{
+  "name": "@ndxbn/configs",
+  "version": "0.0.1-0",
+  "description": "my configs for some node modules",
+  "scripts": {},
+  "keywords": [],
+  "author": "ndxbn <sitri.ndxbn@gmail.com>",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}

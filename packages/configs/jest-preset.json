@@ -1,0 +1,25 @@
+{
+  "collectCoverage": true,
+  "transform": {
+    "\\.tsx?$": "ts-jest"
+  },
+  "testRegex": "(/__tests__/.*|(\\.|/)(test|spec))\\.(jsx?|tsx?)$",
+  "moduleFileExtensions": [
+    "ts",
+    "tsx",
+    "js",
+    "jsx",
+    "json",
+    "node"
+  ],
+  "coveragePathIgnorePatterns": [
+    "/node_modules/",
+    "index.js",
+    "index.ts"
+  ],
+  "rootDir": "",
+  "roots": [
+    "<rootDir>/src/",
+    "<rootDir>/packages/"
+  ]
+}

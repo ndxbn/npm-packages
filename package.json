@@ -1,0 +1,25 @@
+{
+  "private": true,
+  "name": "@ndxbn/npm-packages",
+  "author": "ndxbn <sitri.ndxbn@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "@ndxbn/configs": "file:packages/configs",
+    "@types/jest": "^22.2.3",
+    "@types/node": "^8.10.13",
+    "jest": "^22.4.3",
+    "lerna": "^2.11.0",
+    "ts-jest": "^22.4.5",
+    "typescript": "^2.8.3",
+    "yarn": "^1.6.0"
+  },
+  "jest": {
+    "preset": "@ndxbn/configs"
+  }
+}
