@@ -2,6 +2,7 @@
   "name": "@ndxbn/configs",
   "version": "0.0.1",
   "description": "my configs for some node modules",
+  "main": "",
   "scripts": {},
   "keywords": [],
   "author": "ndxbn <sitri.ndxbn@gmail.com>",
